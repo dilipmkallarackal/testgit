@@ -1,0 +1,1 @@
+g.txt is a ne file created from atom
